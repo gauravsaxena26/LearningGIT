@@ -11,7 +11,6 @@ TODO: List your cookbook requirements. Be sure to include any requirements this 
 
 e.g.
 #### packages
-- `toaster` - testgaurav needs toaster to brown your bagel.
 
 Attributes
 ----------
