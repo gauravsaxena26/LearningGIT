@@ -1,0 +1,7 @@
+<%- if @enabled %>
+	<%- @names.each do |name| %>
+Name : <%= name %>
+	<%- end %>
+<%- else %>
+No names defined
+<%- end %>
